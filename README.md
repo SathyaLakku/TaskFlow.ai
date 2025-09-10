@@ -1,6 +1,5 @@
 # 🚀 TaskFlow.ai
 
-![TaskFlow.ai Banner](public/placeholder.svg)
 
 TaskFlow.ai is an intelligent task management application powered by AI. It helps you organize, prioritize, and track your tasks efficiently, making productivity effortless.
 
@@ -25,18 +24,6 @@ TaskFlow.ai is an intelligent task management application powered by AI. It help
 
 - **📈 AI Insights:**  
   Receive actionable insights and productivity tips from AI.
-
----
-
-## 🖼️ Screenshots
-
-> Replace these with actual screenshots of your app!
-
-![img.png](public/placeholder.svg)
-*Main dashboard with AI-generated tasks and priority indicators.*
-
-![Add Task Dialog](public/placeholder.svg)
-*Dialog for adding new tasks with deadline and priority options.*
 
 ---
 
