@@ -1,6 +1,7 @@
-## Project info
+## Project Demo
 
 **URL**: https://taskflow-ai-1.lovable.app/
+
 ## How can I edit this code?
 
 There are several ways of editing your application.
